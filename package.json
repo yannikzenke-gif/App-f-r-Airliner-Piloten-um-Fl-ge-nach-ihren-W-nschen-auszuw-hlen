@@ -2,6 +2,7 @@
   "name": "copy-of-pilotbid-pro",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://yannikzenke-gif.github.io/App-f-r-Airliner-Piloten-um-Fl-ge-nach-ihren-W-nschen-auszuw-hlen",
   "type": "module",
   "scripts": {
     "dev": "vite",
